@@ -1,7 +1,7 @@
 # javascript代码风格
 
 ## 缩进
-* 缩进使用4个空格（sublime等IDE可配置1个tab等于几个空格）。不要混用空格和tab。
+* 缩进使用2个空格（sublime等IDE可配置1个tab等于几个空格）。不要混用空格和tab。
 
 ```javascript
 let obj = {
